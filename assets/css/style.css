@@ -1,0 +1,10 @@
+body {
+    width: 100%;
+    background-image: url('../images/comedy-roberts-background.png');
+    background-repeat: none;
+    background-size: 100%;
+}
+
+.profile-img {
+    height: 20rem;
+}
