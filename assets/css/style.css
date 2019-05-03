@@ -8,3 +8,12 @@ body {
 .profile-img {
     height: 20rem;
 }
+
+.about-me {
+    padding: 10px;
+}
+
+.btm-border {
+    border-bottom: 1px solid grey;
+    padding-bottom: 5px;
+}
